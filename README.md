@@ -13,9 +13,10 @@ e-commerce project with Digital Skillup Africa
 - Phyton.
 - Tableau
 
-🔗 - [LinkedIn]((https://www.linkedin.com/in/awolokun-olusola-42a64a70)) 
+###### I’m open to collaborations, feedbacks, and learning opportunities.
+🔗  [LinkedIn](https://www.linkedin.com/in/awolokun-olusola-42a64a70) 
+- [email](jaiyeolusola@gmail.com) 
 
-    - [email]((jaiyeolusola@gmail.com))
 
 Let's connect and build something great together!
 
