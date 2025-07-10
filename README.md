@@ -2,7 +2,8 @@
 Welcome to my GitHub page!
 
 I am a procurement specialist who took inerest in Data Analysis, and turning raw data into actionable insights.
-💡 Skills:  Excel, Power BI, SQL.
+
+#### 💡 Skills:  Excel, Power BI, SQL.
 ### 🔍 About Me
 My love for data made me combine procurement with data analysis, and as a procurement analyst, I work with a wide range of data to help organizations make smarter purchasing and supply chain decisions.
 ### 📊 Passionate about:
