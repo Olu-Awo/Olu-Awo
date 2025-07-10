@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋, I am Olusola Abimbola Awolokun.
+Welcome to my GitHub page!
+
+I am a procurement specialist who took inerest in Data Analysis.
+### 🔍 About Me
+My love for data made me combine procurement with data analysis, and as a procurement analyst, I work with a wide range of data to help organizations make smarter purchasing and supply chain decisions.
 
 <!--
 **Olu-Awo/Olu-Awo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
