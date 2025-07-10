@@ -4,6 +4,10 @@ Welcome to my GitHub page!
 I am a procurement specialist who took inerest in Data Analysis.
 ### 🔍 About Me
 My love for data made me combine procurement with data analysis, and as a procurement analyst, I work with a wide range of data to help organizations make smarter purchasing and supply chain decisions.
+### 💼 What I Do
+I majorly use Excel, Power BI and SQL to Clean, organize, and analyze data to find patterns and insights which Help individuals and organizations make better, data-informed decisions.
+
+
 
 <!--
 **Olu-Awo/Olu-Awo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
